@@ -25,7 +25,8 @@ The project is divided into several key sections:
 ---
 
 ## 📌 visit this link to go to my google colab 
-https://drive.google.com/drive/folders/1Hh9pFZtkeLD4oHZwFoAFCILtsp-3L5uv?usp=sharing
+https://colab.research.google.com/drive/1Q_pzQ3McQjn-DisZxfgQY5C__hkaj2uL
+
 ## Must Watch Demo Video 
 <a href="https://youtu.be/WDKuvBKNj-g">
     <img src="https://github.com/SinghShubhamkumarkrishnadev/Bounty-Llama-Chatbot-with-Sentiment-Analysis-Integration/blob/main/videos.png" width="400" height="300" alt="Watch the video">
